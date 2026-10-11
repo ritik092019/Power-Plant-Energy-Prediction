@@ -1,0 +1,9 @@
+{
+  "input_features": [
+    "AT",
+    "V",
+    "AP",
+    "RH"
+  ],
+  "target": "PE"
+}
